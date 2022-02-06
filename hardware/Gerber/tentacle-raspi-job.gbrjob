@@ -5,7 +5,7 @@
       "Application": "Pcbnew",
       "Version": "(6.0.0-0)"
     },
-    "CreationDate": "2022-01-12T23:13:02-08:00"
+    "CreationDate": "2022-02-05T16:32:57-08:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -34,37 +34,37 @@
   ],
   "FilesAttributes": [
     {
-      "Path": "tentacle-raspi-F_Cu.gbr",
+      "Path": "tentacle-raspi-F_Cu.gtl",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tentacle-raspi-B_Cu.gbr",
+      "Path": "tentacle-raspi-B_Cu.gbl",
       "FileFunction": "Copper,L2,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tentacle-raspi-F_Silkscreen.gbr",
+      "Path": "tentacle-raspi-F_Silkscreen.gto",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tentacle-raspi-B_Silkscreen.gbr",
+      "Path": "tentacle-raspi-B_Silkscreen.gbo",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "tentacle-raspi-F_Mask.gbr",
+      "Path": "tentacle-raspi-F_Mask.gts",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "tentacle-raspi-B_Mask.gbr",
+      "Path": "tentacle-raspi-B_Mask.gbs",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "tentacle-raspi-Edge_Cuts.gbr",
+      "Path": "tentacle-raspi-Edge_Cuts.gm1",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }
